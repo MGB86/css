@@ -72,9 +72,9 @@ section h2,
     margin-top: 8px;
 }
 
-.articles article a:hover [
+.articles article a:hover {
     text-decoration: underline;
-]
+}
 
 .articles article p,
 .articles article a {
