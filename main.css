@@ -93,7 +93,6 @@ section h2 {
     background-color: rgba(0, 255, 0, 0.1);
 }
 
-
 #esportes .articles article a {
     background-color: #009432;
 }
@@ -104,4 +103,20 @@ section h2 {
 
 #economia .articles article a {
     background-color: #ff9f1a;
+}
+
+#entretenimento {
+    background-color: #bfedef;
+}
+
+#entretenimento .articles article a {
+    background-color: #299DA3;
+}
+
+#tecnologia {
+    background-color: #bbc7ce;
+}
+
+#tecnologia .articles article a {
+    background-color: #718A98;
 }
