@@ -72,6 +72,12 @@ section h2,
     margin-top: 8px;
 }
 
+.articles article img {
+    width: 100%;
+    height: 50%;
+    object-fit: fill;
+}
+
 .articles article a:hover {
     text-decoration: underline;
 }
